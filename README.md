@@ -21,3 +21,5 @@ type in a termainal: 'python3 Cookie_Theif.py'.
 Now You Are All Set!
 
 Enjoy ;)
+
+NOTE: THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY!  I AM NOT RESPONSIBLE FOR ANY TROBLE THAT YOU CAUSE!
